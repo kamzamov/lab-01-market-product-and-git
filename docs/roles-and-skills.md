@@ -1,5 +1,5 @@
 # Roles and skills
-
+bla bla bla
 ## Components and roles
 
 - User-facing mobile application  
